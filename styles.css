@@ -1,0 +1,116 @@
+body{
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+#title{
+  background-color: #424874;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-size: 1.5rem;
+}
+
+.nav-link{
+
+}
+
+.mountain{
+  width: 30%;
+  opacity: 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 50%;
+  width: 10%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 50%;
+  width: 10%;
+}
+
+#profile{
+  background-color: #A6B1E1;
+  padding: 5%;
+}
+
+.profilePhoto{
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+}
+
+.profile-sum{
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+#skills{
+  background-color: #DCD6F7;
+  padding: 5%;
+}
+
+.circuitImage{
+  width: 15%;
+  border-radius: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.computerImage{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.ecgImage{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width: 60%;
+  margin:10% auto 10% auto;
+  text-align: left;
+  line-height: 1.5rem;
+  }
+
+#projects{
+  background-color: #A6B1E1;
+}
+
+#hobbies{
+  background-color: #424874;
+}
+
+.hobbies-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 2%;
+}
+
+.hobbies-text{
+  font-size: 2rem;
+  line-height: 1.5;
+  margin-bottom: 5%;
+}
+
+#footer{
+  background-color: #F0ECE3;
+}
+
+.footer-icon{
+  margin: 15px;
+}
