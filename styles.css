@@ -19,10 +19,6 @@ body{
   font-size: 1.5rem;
 }
 
-.nav-link{
-
-}
-
 .mountain{
   width: 30%;
   opacity: 0;
@@ -58,7 +54,7 @@ body{
 
 #skills{
   background-color: #DCD6F7;
-  padding: 5%;
+  padding: 1%;
 }
 
 .circuitImage{
@@ -80,6 +76,8 @@ body{
   margin-right: 30px;
 }
 
+a { color: inherit; } 
+
 .skill-row{
   width: 60%;
   margin:10% auto 10% auto;
@@ -87,12 +85,9 @@ body{
   line-height: 1.5rem;
   }
 
-#projects{
-  background-color: #A6B1E1;
-}
-
 #hobbies{
   background-color: #424874;
+  padding: 1%;
 }
 
 .hobbies-image{
@@ -109,6 +104,8 @@ body{
 
 #footer{
   background-color: #F0ECE3;
+  margin: 0;
+  padding: 1%;
 }
 
 .footer-icon{
